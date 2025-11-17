@@ -10,6 +10,7 @@ let userID = 'ef53f8db-7799-4ab5-9259-a38def8a19dd';
 //let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
 //let proxyIP = '178.128.80.43';
 let proxyIP = '43.156.116.194';
+let ppp = [];
 //let dohURL = 'https://sky.rethinkdns.com/1:-Pf_____9_8A_AMAIgE8kMABVDDmKOHTAKg='; // https://cloudflare-dns.com/dns-query or https://dns.google/dns-query
 let dohURL = 'https://dns.google/dns-query';
 
